@@ -2,13 +2,28 @@
   "AA":{
     "A":{
       "U":"",
-      "isT":"",
-      "isJ":""
+      "isT":false,
+      "isJ":false
     },
     "B":{
       "U":"",
-      "isT":"",
-      "isJ":""
+      "isT":false,
+      "isJ":false
+    },
+     "C":{
+      "U":"",
+      "isT":false,
+      "isJ":false
+    },
+     "D":{
+      "U":"",
+      "isT":false,
+      "isJ":false
+    }, 
+    "E":{
+      "U":"",
+      "isT":false,
+      "isJ":false
     }
   }
 }
