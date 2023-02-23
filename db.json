@@ -1,8 +1,8 @@
 {
   "AA":{
     "A":{
-      "U":"",
-      "isT":false,
+      "U":"https://www.baidu.com/",
+      "isT":true,
       "isJ":false,
       "country":["HK","US","TW"]
     },
