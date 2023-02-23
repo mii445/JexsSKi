@@ -3,7 +3,8 @@
     "A":{
       "U":"",
       "isT":false,
-      "isJ":false
+      "isJ":false,
+      "country":["xxx","xx","xxx"]
     },
     "B":{
       "U":"",
