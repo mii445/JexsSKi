@@ -2,9 +2,9 @@
   "AA":{
     "A":{
       "U":"http://www.30jili.ph/?a=1013",
-      "isT":true,
+      "isT":false,
       "isJ":false,
-      "country":["HK","US","TW"]
+      "country":[]
     },
     "B":{
       "U":"",
